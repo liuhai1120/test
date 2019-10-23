@@ -6,4 +6,8 @@ public class HelloWorld2 {
 		System.out.println("hello world");
 	}
 
+	public void hh() {
+		
+	}
+	
 }
